@@ -30,7 +30,7 @@ To clear the DEA-C01 exam, candidates must master advanced Snowflake data engine
 
 For an in-depth breakdown of scenario-based question strategies, query optimization tips, and exam day pacing, check out this comprehensive guide:
 
-* [Mastering Snowflake DEA-C01: Key Topics, Data Engineering Trade-Offs, and Exam Lessons](https://lucastech.hashnode.dev/mastering-snowflake-dea-c01-key-topics-data-engineering-trade-offs-and-exam-lessons)
+* [Mastering Snowflake DEA-C01: Key Topics, Data Engineering Trade-Offs, and Exam Lessons](https://telegra.ph/How-I-Passed-SnowPro-Advanced-Data-Engineer-DEA-C01-08-16)
 
 ---
 
