@@ -174,3 +174,10 @@ A data science team clones a 2 TB production database `PROD_DB` to create a deve
 1. **Watch out for Object Default Retention Settings:** Standard edition defaults to 1 day for Time Travel; Enterprise edition can extend up to 90 days for permanent objects.
 2. **Understand Caching Levels:** Know the differences between the Result Cache (24 hours, Cloud Services Layer), Local Disk Cache (Virtual Warehouse SSDs), and Remote Storage (S3/GCS/Azure Blob).
 3. **Pacing:** You will have 115 minutes to complete 100 questions. Allocate approximately 1 minute per question and use the Review flag feature for ambiguous questions.
+
+---
+
+🔗 Official Snowflake Learning Links
+
+* [Snowflake Documentation Portal](https://docs.snowflake.com/) - Official reference guide and SQL statement reference.
+* [SnowPro Core Certification Study Guide](https://learn.snowflake.com/en/certifications/snowpro-core/) - Exam domain guide and prerequisites.
