@@ -33,10 +33,17 @@ Coming from traditional relational databases, learning Snowflake was a eye-opene
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure & Study Index
 
-* `README.md` - High-level learning framework, architecture notes, and personal observations.
-* `Snowflake-COF-C02-Resources.md` - (In Progress) Detailed study notes, domain breakdowns, and revision guide for the Snowflake SnowPro Core certification track.
+### 📘 Certification Resources & Guides
+* [`SnowPro-Core-COF-C02-Resources.md`](./SnowPro-Core-COF-C02-Resources.md) - SnowPro Core exam breakdown, study materials, and reference guides.
+* [`Snowflake-DEA-C01-Resources.md`](./Snowflake-DEA-C01-Resources.md) - Data Engineer Associate guide and practice questions.
+
+### 📝 Core Architecture & SQL Notes
+* [`notes/Snowflake-Architecture-Notes.md`](./notes/Snowflake-Architecture-Notes.md) - Decoupled storage/compute, Zero-Copy Cloning, and VARIANT data type breakdown.
+
+### 🛠️ Hands-on SQL Scripts
+* [`sql/01_snowflake_basics.sql`](./sql/01_snowflake_basics.sql) - Virtual warehouse setup, database creation, and zero-copy cloning experiments.
 
 ---
 
