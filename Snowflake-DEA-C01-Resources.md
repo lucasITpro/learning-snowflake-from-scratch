@@ -39,3 +39,12 @@ For an in-depth breakdown of scenario-based question strategies, query optimizat
 * **Read Constraints Carefully**: Distinguish between questions asking for *"minimum operational cost"* versus *"maximum query performance."*
 * **Eliminate Anti-Patterns**: Avoid options that involve manual file polling or using external compute when native serverless features (e.g., Snowpipe / Serverless Tasks) are available.
 * **Pacing**: With 65 scenario-heavy questions over 115 minutes, aim to complete the first pass in 90 minutes, leaving 25 minutes to review flagged questions.
+
+---
+
+🔗 Official Snowflake Data Engineering Resources
+
+* [SnowPro Data Engineer Associate Certification Guide](https://learn.snowflake.com/en/certifications/data-engineer-associate/) - Official exam guide, target audience, and domain breakdown.
+* [Snowflake Data Engineering Documentation](https://docs.snowflake.com/en/user-guide/data-pipelines-intro) - In-depth guide to Streams, Tasks, Snowpipe, and continuous data pipelines.
+* [Snowflake Hands-on Quickstarts](https://quickstarts.snowflake.com/) - Official step-by-step tutorials for building end-to-end data solutions.
+* [Official Snowflake GitHub Repository](https://github.com/snowflakedb) - Open-source connectors, drivers, and reference code samples.
