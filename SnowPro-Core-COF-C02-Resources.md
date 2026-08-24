@@ -181,3 +181,8 @@ A data science team clones a 2 TB production database `PROD_DB` to create a deve
 
 * [Snowflake Documentation Portal](https://docs.snowflake.com/) - Official reference guide and SQL statement reference.
 * [SnowPro Core Certification Study Guide](https://learn.snowflake.com/en/certifications/snowpro-core/) - Exam domain guide and prerequisites.
+  
+---
+  
+* ## 🔗 Community Study Guides & Exam Experiences
+* [Notes on Preparing for the Snowflake SnowPro Core (COF-C02) Certification](https://medium.com/@fayeatomcnfc2026/notes-on-preparing-for-the-snowflake-snowpro-core-cof-c02-certification-32606dd59afe) - Comprehensive breakdown of core architecture concepts, cost management, and study recommendations.
