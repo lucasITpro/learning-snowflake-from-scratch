@@ -48,3 +48,4 @@ For an in-depth breakdown of scenario-based question strategies, query optimizat
 * [Snowflake Data Engineering Documentation](https://docs.snowflake.com/en/user-guide/data-pipelines-intro) - In-depth guide to Streams, Tasks, Snowpipe, and continuous data pipelines.
 * [Snowflake Hands-on Quickstarts](https://quickstarts.snowflake.com/) - Official step-by-step tutorials for building end-to-end data solutions.
 * [Official Snowflake GitHub Repository](https://github.com/snowflakedb) - Open-source connectors, drivers, and reference code samples.
+* [Real-World Data Engineering on Snowflake: Architectural Patterns and DEA-C01 Insights](https://dev.to/lucasitpro/real-world-data-engineering-on-snowflake-architectural-patterns-and-dea-c01-insights-4gn3) - Deep dive into data pipeline design, virtual warehouse sizing, and exam preparation strategies.
