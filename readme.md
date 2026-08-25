@@ -50,6 +50,39 @@ Coming from traditional relational databases, learning Snowflake was a eye-opene
 ## ⏱️ My Ongoing Snowflake Learning Roadmap
 
 - [x] Set up Snowflake Free Trial account and practice basic virtual warehouse creation
+
+# Enterprise Cloud Data Architecture & Certification Hub ❄️☁️
+
+Welcome to my central hands-on learning repository for Enterprise Data Engineering, Lakehouse Architecture, and Cloud Analytics. This repository bridges modern cloud data warehouse technologies (**Snowflake**) with Microsoft Azure's core data ecosystem (**DP-900, DP-300, DP-600**).
+
+---
+
+## 📐 End-to-End Enterprise Data Flow Architecture
+
+```text
++-----------------------------------------------------------------------------------+
+|                        ENTERPRISE DATA ARCHITECTURE MAP                           |
++-----------------------------------------------------------------------------------+
+
+ [ Source Systems (OLTP) ]           [ Integration & ETL Engine ]          [ Modern Data Lakehouse / Analytics ]
+ 
+ +-----------------------+          +---------------------------+          +-----------------------------------+
+ |  Azure SQL Database   |  =====>  |   Microsoft Fabric        |  =====>  |  Power BI Dashboards / Reports    |
+ |      (DP-300)        |          |     Data Factory           |          |  & DirectLake Analytics           |
+ +-----------------------+          +---------------------------+          +-----------------------------------+
+             |                                    |                                          ^
+             | (Change Data Capture)              | (Zero-Copy Data Sharing)                 |
+             v                                    v                                          |
+ +-----------------------------------------------------------------------------------------------------------------+
+ |                                    Snowflake Data Cloud Platform (COF-C02)                                      |
+ |   - Multi-Cluster Virtual Warehouses (Compute)  |  - Centralized Cloud Storage  |  - RBAC & Governance Rules       |
+ +-----------------------------------------------------------------------------------------------------------------+
+                                                     ^
+                                                     |
+                                      +------------------------------+
+                                      | Azure Data Fundamentals      |
+                                      |           (DP-900)           |
+                                      +------------------------------+
 - [x] Practice querying JSON datasets using `VARIANT` and `FLATTEN`
 - [ ] Implement data loading pipelines using External Stages (AWS S3 / GCP GCS) and `COPY INTO`
 - [ ] Build a mini end-to-end data transformation pipeline using dbt and Snowflake
